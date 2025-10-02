@@ -11,7 +11,7 @@ Este proyecto es un **CRUD desarrollado en Laravel** que permite gestionar regis
 Incluye las operaciones básicas:
 
 -  Crear  
--  Leer  
+-  Lista  
 -  Editar  
 -  Eliminar  
 
