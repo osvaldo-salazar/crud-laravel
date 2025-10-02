@@ -15,6 +15,5 @@ Incluye las operaciones básicas:
 -  Editar  
 -  Eliminar  
 
-## ⚙️ Instalación
 
 
